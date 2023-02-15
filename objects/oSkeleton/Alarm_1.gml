@@ -1,0 +1,1 @@
+_crossbow_can_fire = true

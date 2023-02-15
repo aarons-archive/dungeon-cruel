@@ -1,0 +1,1 @@
+_hammer_can_hit = true

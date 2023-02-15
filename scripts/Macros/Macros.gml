@@ -1,0 +1,1 @@
+#macro PLAYERS oSkeleton, oKnight
